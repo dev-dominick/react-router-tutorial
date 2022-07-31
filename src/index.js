@@ -35,7 +35,9 @@ root.render(
         />
       </Route>
     </Routes>
-  </BrowserRouter>
+  </BrowserRouter>,
+  root
+
   // </React.StrictMode>
 );
 
